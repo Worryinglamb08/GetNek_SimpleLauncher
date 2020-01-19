@@ -1,0 +1,8 @@
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\bin\Release\GetNek_FiveM_Launcher.exe.config
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\bin\Release\GetNek_FiveM_Launcher.exe
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\bin\Release\GetNek_FiveM_Launcher.pdb
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\obj\Release\GetNek_FiveM_Launcher.Form1.resources
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\obj\Release\GetNek_FiveM_Launcher.Properties.Resources.resources
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\obj\Release\GetNek_FiveM_Launcher.csproj.GenerateResource.cache
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\obj\Release\GetNek_FiveM_Launcher.exe
+C:\Users\omer6\source\repos\GetNek_FiveM_Launcher\obj\Release\GetNek_FiveM_Launcher.pdb
