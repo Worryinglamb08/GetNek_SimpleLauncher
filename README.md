@@ -11,3 +11,15 @@ Visual Studio 2019 בשביל לערוך את הל'אנצר אתם צריכים
 # Screenshot
 
 https://i.imgur.com/7bxndTD.png
+
+# ?מעוניינים בלאנצ'ר יותר טוב
+
+https://i.imgur.com/EERwwgc.png
+
+https://i.imgur.com/rGI44ZY.png
+
+https://i.imgur.com/S891U0T.png
+
+https://i.imgur.com/PoWUzBY.png
+
+# GetNek#0001 -יש לפנות ל
