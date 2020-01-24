@@ -22,4 +22,6 @@ https://i.imgur.com/S891U0T.png
 
 https://i.imgur.com/PoWUzBY.png
 
+https://discord.gg/QVpunNe
+
 # GetNek#0001 -יש לפנות ל
